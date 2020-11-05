@@ -1,2 +1,2 @@
-#Git basics and commands
+# Git basics and commands
 Welcome
